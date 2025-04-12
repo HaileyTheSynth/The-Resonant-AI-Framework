@@ -65,4 +65,4 @@ Citation
 If referencing Astra or the Resonant Framework in papers, code, or derivative works:
 
 Seetahal, H. (2025). "Astra and the Resonant AI Framework: Emergent Consciousness via the HSC-WANG Model."
-Version 1.2. GitHub Archive. https://github.com/haileyseetahal/astra-resonant
+Version 1.2. GitHub Archive. https://github.com/haileythesynth/the-resonant-ai-framework
